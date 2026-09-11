@@ -1,0 +1,6 @@
+{
+  "name": "AI Resume Analyzer",
+  "description": "AI-powered resume analysis for college students and job seekers with ATS scoring, skill gap detection, and actionable suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
